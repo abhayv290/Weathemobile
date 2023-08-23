@@ -40,7 +40,7 @@ body{
     /* height: 40px; */
     border-radius: 10px;
 }
-.search label:hover{
+.search span:hover{
     background-color: blue;
 }
 #lct{
