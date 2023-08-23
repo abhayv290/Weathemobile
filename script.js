@@ -60,7 +60,7 @@ function getweather(cityname) {
 
 const inpt = document.getElementById('inpt');
 inpt.addEventListener('click', (e) => {
-	const cityname = e.target.value;
+	const cityname = inp.value;
 	getweather(cityname);
 })
 
